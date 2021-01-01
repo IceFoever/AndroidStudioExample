@@ -8,7 +8,10 @@
 3.OkHttpExample2透過使用OkHttp取得Json資料
   再透過gson套件解析Json資料顯示在TextView
 
-4.Service範例透過Service服務的方式，來進行Activity的啟動
+4.RoomandRecycleViewdoExample使用Room來創建小型資料庫
+  並在此資料庫增加新增刪除等功能並搭配
+
+5.Service範例透過Service服務的方式，來進行Activity的啟動
 
 
 以上範例的主要內容學習於網路上的資料來試做對於Android Studio 內sdk
