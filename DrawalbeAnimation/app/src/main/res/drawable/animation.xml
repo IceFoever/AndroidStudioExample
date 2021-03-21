@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/bright1"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright2"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright3"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright4"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright5"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright6"
+        android:duration="600"/>
+    <item
+        android:drawable="@drawable/bright7"
+        android:duration="600"/>
+
+
+</animation-list>
