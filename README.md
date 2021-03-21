@@ -20,6 +20,10 @@
 7.photoesapp 去使用Android內的相機並透過不同方式呈現高畫質與低畫質之相片
   參考別人的相機使用方式     
 
+8.Animationtest透過使用xml設計動作來使圖片進行簡易動畫移動
+
+9.DrawbleAnimation透過animation-list將不同狀態圖片放
+  在同一個drawble裡並透過duration時間設置在切換圖片
 
 以上範例的主要內容學習於網路上的資料來試做對於Android Studio 內sdk
 能更好的去熟悉它
